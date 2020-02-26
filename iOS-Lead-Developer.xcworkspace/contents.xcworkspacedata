@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <FileRef
+      location = "group:../Core">
+   </FileRef>
+   <FileRef
+      location = "group:../NetworkingModule">
+   </FileRef>
+   <FileRef
+      location = "group:../iOS-Clean-Architecture-MVVM-master/Auth">
+   </FileRef>
+   <FileRef
+      location = "group:../iOS-Clean-Architecture-MVVM-master/Search">
+   </FileRef>
+   <FileRef
+      location = "group:iOS-Lead-Developer.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:Pods/Pods.xcodeproj">
+   </FileRef>
+</Workspace>

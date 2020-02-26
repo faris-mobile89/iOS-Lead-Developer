@@ -1,0 +1,16 @@
+PODS:
+  - DependencyInjection (0.1.0)
+
+DEPENDENCIES:
+  - DependencyInjection (from `DevPods/DependencyInjection`)
+
+EXTERNAL SOURCES:
+  DependencyInjection:
+    :path: DevPods/DependencyInjection
+
+SPEC CHECKSUMS:
+  DependencyInjection: 32ef9938f17567bd834c1e6fb3ee226042a99062
+
+PODFILE CHECKSUM: af92716c5f18828977b6317b42abce27048a22a4
+
+COCOAPODS: 1.8.1

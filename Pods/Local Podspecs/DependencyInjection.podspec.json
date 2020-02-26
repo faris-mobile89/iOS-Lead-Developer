@@ -1,0 +1,22 @@
+{
+  "name": "DependencyInjection",
+  "version": "0.1.0",
+  "summary": "A short description of DependencyInjection.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/faris.it.cs@gmail.com/DependencyInjection",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "faris.it.cs@gmail.com": "faris.it.cs@gmail.com"
+  },
+  "source": {
+    "git": "https://github.com/faris.it.cs@gmail.com/DependencyInjection.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "DependencyInjection/Module/**/*"
+}
